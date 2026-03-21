@@ -1,2 +1,2 @@
-# IAD_labs
-Here my labs from Data Mining. There no context of this labs and no bussiness idea
+# ML labs
+In this repo I combined my labs from KPI on data mining (2022) and my ML labs from SET (2026)
